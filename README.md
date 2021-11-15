@@ -13,5 +13,5 @@ http://yann.lecun.com/exdb/mnist/
 The overall structure of the neural net used for this project can be seen below:
 
 <p align="center">
-  <img style="transform: scale(0.5);" src="res/neural_net_structure.PNG" alt="Sublime's custom image"/>
+  <img width="500px" src="res/neural_net_structure.PNG" alt="Sublime's custom image"/>
 </p>
