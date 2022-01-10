@@ -10,7 +10,7 @@ For this project I was not allowed to use any sort of machine learning library s
 http://yann.lecun.com/exdb/mnist/
 
 ## Program Specifics
-The overall structure of the neural net used for this project can be seen below:
+The neural network that I implemented for this project consists of an input layer, 2 hidden layers, and an output layer. The hidden layers use the sigmoid function as an activation function, and the output latyer uses the softmax function.
 
 <p align="center">
   <img width="500px" src="res/neural_net_structure.PNG" alt="Sublime's custom image"/>
