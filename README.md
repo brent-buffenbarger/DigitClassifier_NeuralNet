@@ -15,3 +15,6 @@ The neural network that I implemented for this project consists of an input laye
 <p align="center">
   <img width="500px" src="res/neural_net_structure.PNG" alt="Sublime's custom image"/>
 </p>
+
+## Results
+The neural net has an accuracy of approximately 95% on the mnist dataset. On a dataset the neural net has never seen before, it has an accuracy of approximately 70%.
